@@ -3,7 +3,8 @@
 This is a clock project built using HTML, CSS, and JavaScript.
 
 ## Screenshot
-<img src="screenshot.jpg"/>
+
+![Clock Screenshot](screenshot.png)
 
 ## How to Use
 
@@ -13,7 +14,7 @@ This is a clock project built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Displays the current time in a 12-hour format.
+- Displays the current time in a 24-hour format.
 - Responsive design works well on desktop and mobile devices.
 
 ## Contributing
